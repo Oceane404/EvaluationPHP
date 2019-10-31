@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(233, 229, 229, 0.884);
+}
+
+#titre{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: 45px;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.italique{
+    font-style: italic;
+}
